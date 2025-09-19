@@ -1,0 +1,14 @@
+# Archivos compilados y ejecutables
+*.exe
+*.lib
+*.exp
+*.o
+
+# Datos y modelos guardados
+*.csv
+*.pth
+*.zip
+mnist_data/
+
+# Resultados generados
+*.png
